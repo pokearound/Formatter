@@ -1,7 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Formatter,formatting.inst,Left,0,14,0,0,0,4,0,4,0,4
-Formatter,formatting.inst,Center,0,19,0,0,0,4,0,4,0,4
-Formatter,formatting.inst,Right,0,17,0,0,0,4,0,4,0,4
-Formatter,main,Main,3,87,0,12,1,22,1,8,1,2
-Formatter,formatting,Formatter,0,110,1,7,0,28,1,7,0,4
-Formatter,formatting,FormatterFactory,0,32,0,0,0,5,0,2,0,2
