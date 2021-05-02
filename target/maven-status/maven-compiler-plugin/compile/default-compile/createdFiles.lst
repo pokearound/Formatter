@@ -1,0 +1,6 @@
+formatting/Formatter.class
+formatting/inst/Center.class
+formatting/inst/Left.class
+formatting/inst/Right.class
+formatting/FormatterFactory.class
+main/Main.class
